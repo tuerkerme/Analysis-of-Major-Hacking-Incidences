@@ -12,7 +12,8 @@
 ## Project Overview
 
 This data analysis project covering the years 2004 to 2022 aims to provide insights into cyber attacks on the significant entities targeted, hacking methods employed, and the diverse range of organization types impacted. 
-![image](https://github.com/tuerkerme/Data_Analysis/assets/149696414/4c483954-2e2c-49fd-9aff-ecae7a8277e3)
+<img width="556" alt="image" src="https://github.com/tuerkerme/Analysis-of-Major-Hacking-Incidences/assets/149696414/7d1eeec4-0efb-4d8e-bf2a-bac2b74eade6">
+
  
 ## Data Source
 Cyber Security Data: The primary dataset used for this analysis is the "df.csv" file obtained from Kaggle.com, containing detailed information about hacked companies, their sectors and attack type. 
