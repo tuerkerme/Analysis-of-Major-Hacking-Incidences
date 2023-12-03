@@ -66,13 +66,17 @@ What are the prevailing attack types observed in these incidents?
 The outcomes of the analysis are succinctly outlined below:
 ```
 Impact on Sectors:
-The analysis discerns a pronounced impact on companies operating within the web, health, and financial sectors, signifying a heightened vulnerability to cyber attacks within these industries.
+The analysis discerns a pronounced impact on companies operating within the web, health, and financial sectors, signifying a heightened
+vulnerability
+to cyber attacks within these industries.
 
 Temporal Trends:
-The observed temporal trends reveal an escalation in the frequency of cyber attacks during the years 2011, 2019, and 2020, followed by a notable decline in incidents during 2021 and 2022.
+The observed temporal trends reveal an escalation in the frequency of cyber attacks during the years 2011, 2019, and 2020, followed by
+a notable decline in incidents during 2021 and 2022.
 
 Common Attack Types:
-Predominant attack types identified encompass deficiencies in security measures, incidents involving lost or stolen media, and instances of unintentionally published credentials.
+Predominant attack types identified encompass deficiencies in security measures, incidents involving lost or stolen media, and instances of
+unintentionally published credentials.
 ```
 These findings, while insightful, warrant consideration within the broader context of cybersecurity dynamics. It is essential to approach the interpretation of these results judiciously, recognizing potential nuances and contextual factors that may influence the overall landscape of cyber threats.
 
