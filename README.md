@@ -1,4 +1,4 @@
-# Analysis-of-Major-Hacking-Incidences
+# Analysis of Major Hacking Incidences
 ## Table of Contents
  - [Project Overview](#Project-Overview)
  - [Data Source](#Data-Source)
