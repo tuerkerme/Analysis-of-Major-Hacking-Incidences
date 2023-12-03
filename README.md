@@ -63,12 +63,19 @@ What are the prevailing attack types observed in these incidents?
  ```
 ## Findings
  
-The analysis results are summarized as follows:
- 
-The analysis indicates that companies in the web, health, and financial sectors are most affected by cyber attacks. The number of attacks increased in 2011, 2019, and 2020, with a sharp decline in 2021 and 2022. The most common types of attacks are attributed to poor security measures, incidents involving lost or stolen media, and unintentionally published credentials.
+The outcomes of the analysis are succinctly outlined below:
 
-Product Category A is the best-performing category in terms of sales and revenue.
-Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+Impact on Sectors:
+The analysis discerns a pronounced impact on companies operating within the web, health, and financial sectors, signifying a heightened vulnerability to cyber attacks within these industries.
+
+Temporal Trends:
+The observed temporal trends reveal an escalation in the frequency of cyber attacks during the years 2011, 2019, and 2020, followed by a notable decline in incidents during 2021 and 2022.
+
+Common Attack Types:
+Predominant attack types identified encompass deficiencies in security measures, incidents involving lost or stolen media, and instances of unintentionally published credentials.
+
+These findings, while insightful, warrant consideration within the broader context of cybersecurity dynamics. It is essential to approach the interpretation of these results judiciously, recognizing potential nuances and contextual factors that may influence the overall landscape of cyber threats.
+
 
 ## Recommendations
 
@@ -81,4 +88,4 @@ Moreover, collaboration with industry peers, information sharing forums, and sta
 
 ## Limitations
 
-I had to remove all null values because they would have affected the accuracy of my conclusions from the analysis.
+The analysis necessitated the removal of all null values to uphold the integrity and precision of the derived conclusions. However, it is imperative to acknowledge that this approach may introduce certain limitations to the study. The exclusion of null values could potentially lead to a reduction in the overall sample size, influencing the generalizability of the findings. As such, it is essential to interpret the results with a cognizant awareness of this inherent limitation, recognizing the potential impact on the robustness and representativeness of the analytical outcomes.
