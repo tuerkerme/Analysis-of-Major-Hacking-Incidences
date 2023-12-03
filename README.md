@@ -11,7 +11,9 @@
    
 ## Project Overview
 
-This data analysis project covering the years 2004 to 2022 aims to provide insights into cyber attacks on the significant entities targeted, hacking methods employed, and the diverse range of organization types impacted. 
+This comprehensive data analysis project, spanning the years 2004 to 2022, endeavors to furnish discerning insights into cyber attacks. The primary focus is on elucidating the entities subjected to these attacks, delineating the employed hacking methodologies, and delineating the varied array of organizational types impacted by such cyber threats. Specifically, it aims to identify the years in which the most frequent cyber attacks are observed, providing a nuanced understanding of the temporal dynamics within the cybersecurity landscape.
+
+
 <img width="556" alt="image" src="https://github.com/tuerkerme/Analysis-of-Major-Hacking-Incidences/assets/149696414/7d1eeec4-0efb-4d8e-bf2a-bac2b74eade6">
 
  
