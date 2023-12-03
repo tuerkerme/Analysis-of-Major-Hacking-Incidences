@@ -67,11 +67,11 @@ This stage included some interesting code/features worked with
 ## Exploratory Data Analysis
 EDA involved exploring the cyber attack data to answer key questions, such as:
  
-In which years did the cyber attacks occur most frequently?
+ In which years did the cyber attacks occur most frequently?
 
-Which sectors have experienced the greatest impact from these cyber attacks?
+ Which sectors have experienced the greatest impact from these cyber attacks?
 
-What are the prevailing attack types observed in these incidents?
+ What are the prevailing attack types observed in these incidents?
  
 ## Findings
  
