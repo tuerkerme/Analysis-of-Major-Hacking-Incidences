@@ -27,19 +27,22 @@ Tableau: Data Visualization
 ## Data Cleaning/Preparation
 
 In the preliminary stages of data analysis, meticulous attention was given to the following key tasks within the data preparation phase:
-```
+
 Data Loading and Inspection:
+
 Thorough examination and loading of the dataset to gain a comprehensive understanding of its structure, variables, and
 overall quality.
 
 Handling Missing Values:
+
 Implementation of rigorous strategies for managing and mitigating the impact of missing data, ensuring completeness and
 reliability.
 
 Data Cleaning and Formatting:
+
 Rigorous data cleaning procedures were executed to rectify inaccuracies and inconsistencies, followed by meticulous
 formatting to uphold data integrity.
-```
+
 These steps were integral in refining the dataset to a state conducive to subsequent analytical endeavors.
 
 This stage included some interesting code/features worked with
