@@ -29,13 +29,16 @@ Tableau: Data Visualization
 In the preliminary stages of data analysis, meticulous attention was given to the following key tasks within the data preparation phase:
 ```
 Data Loading and Inspection:
-Thorough examination and loading of the dataset to gain a comprehensive understanding of its structure, variables, and overall quality.
+Thorough examination and loading of the dataset to gain a comprehensive understanding of its structure, variables, and
+overall quality.
 
 Handling Missing Values:
-Implementation of rigorous strategies for managing and mitigating the impact of missing data, ensuring completeness and reliability.
+Implementation of rigorous strategies for managing and mitigating the impact of missing data, ensuring completeness and
+reliability.
 
 Data Cleaning and Formatting:
-Rigorous data cleaning procedures were executed to rectify inaccuracies and inconsistencies, followed by meticulous formatting to uphold data integrity.
+Rigorous data cleaning procedures were executed to rectify inaccuracies and inconsistencies, followed by meticulous
+formatting to uphold data integrity.
 ```
 These steps were integral in refining the dataset to a state conducive to subsequent analytical endeavors.
 
@@ -66,17 +69,16 @@ What are the prevailing attack types observed in these incidents?
 The outcomes of the analysis are succinctly outlined below:
 ```
 Impact on Sectors:
-The analysis discerns a pronounced impact on companies operating within the web, health, and financial sectors, signifying a heightened
-vulnerability
-to cyber attacks within these industries.
+The analysis discerns a pronounced impact on companies operating within the web, health, and financial sectors, signifying
+a heightened vulnerability to cyber attacks within these industries.
 
 Temporal Trends:
-The observed temporal trends reveal an escalation in the frequency of cyber attacks during the years 2011, 2019, and 2020, followed by
-a notable decline in incidents during 2021 and 2022.
+The observed temporal trends reveal an escalation in the frequency of cyber attacks during the years 2011, 2019, and 2020,
+followed by a notable decline in incidents during 2021 and 2022.
 
 Common Attack Types:
-Predominant attack types identified encompass deficiencies in security measures, incidents involving lost or stolen media, and instances of
-unintentionally published credentials.
+Predominant attack types identified encompass deficiencies in security measures, incidents involving lost or stolen media,
+and instances of unintentionally published credentials.
 ```
 These findings, while insightful, warrant consideration within the broader context of cybersecurity dynamics. It is essential to approach the interpretation of these results judiciously, recognizing potential nuances and contextual factors that may influence the overall landscape of cyber threats.
 
