@@ -18,7 +18,8 @@ This comprehensive data analysis project, spanning the years 2004 to 2022, endea
 
  
 ## Data Source
-Cyber Security Data: The primary dataset used for this analysis is the "df.csv" file obtained from Kaggle.com, containing detailed information about hacked companies, their sectors and attack type. 
+
+Cybersecurity Data: The principal dataset underpinning this analysis is derived from the "df.csv" file, sourced from Kaggle.com. This dataset encompasses intricate details pertaining to compromised companies, inclusive of their respective sectors, types of attacks sustained, and the chronological occurrence of these incidents.
  
 ## Tools
 
